@@ -2,5 +2,5 @@
 
 🦄s are cool
 
-<p align="left"><a href="https://github.com/ben-z?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ben-z&count_private=true&show_icons=true" alt="github readme stats" height="156"/></a></p>
-
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-z&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ben-z?tab=repositories)
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-z&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ben-z?tab=repositories)
